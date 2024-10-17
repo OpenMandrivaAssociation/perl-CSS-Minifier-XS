@@ -8,7 +8,7 @@ Release:	3
 Summary:    XS based CSS minifier
 License:    GPL+ or Artistic
 Group:      Development/Perl
-Url:        http://search.cpan.org/dist/%{upstream_name}
+Url:        https://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/modules/by-module/CSS/CSS-Minifier-XS-%{upstream_version}.tar.gz
 
 BuildRequires: perl(Module::Build::Compat)
